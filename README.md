@@ -1,12 +1,12 @@
-![logo](https://github.com/asad-link/Muhammad-Asad-Nafees/blob/main/Banner.png)
+![logo](https://github.com/asad-link/Muhammad-Asad-Nafees/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Asad Nafees</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter Developer</h3>
 
 - 🔭 I’m currently working on **e-commerce mobile app**
 
-- 📫 How to reach me **asadnafees.44@gmail.com**
+- 📫  How to reach me **asadnafees.44@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o4cZWMZhQ_dLO3IVBsy53vEC1dbAkMNu/view?usp=sharing](https://drive.google.com/file/d/1o4cZWMZhQ_dLO3IVBsy53vEC1dbAkMNu/view?usp=sharing)
+- Portfolio: [https://asad-portfolio-e7737.web.app/#/main]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +34,5 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-link&show_icons=true&locale=en&layout=compact" alt="asad-link" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-link&show_icons=true&locale=en" alt="asad-link" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-link&" alt="asad-link" /></p>

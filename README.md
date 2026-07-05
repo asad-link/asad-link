@@ -6,7 +6,7 @@
 
 - 📫  How to reach me **asadnafees.44@gmail.com**
 
-- Portfolio: [https://asad-portfolio-e7737.web.app/#/main]
+- Portfolio: [www.asadnafees.site]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/60/5100060-middle.png" alt="dart" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_AqLfL00WfFpHisEnN08Tw2yRWpcjiMZVTOJr9LEC2Sq_Wjvp3fLhsa4&s=10" alt="dart" width="40" height="40"/> </a>
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>

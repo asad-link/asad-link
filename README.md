@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0ySch_8LoR_7yHgKQXIf5LZRRGeHbApCOUsjEg-KAMZa87SNl0N26QWm&s=10" alt="dart" width="40" height="40"/> </a>
 
